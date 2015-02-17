@@ -33,7 +33,7 @@ And the http status should be 403
 ```
 
 **Writing Controller Specs**
-
+**instructors told us to skip this for now**
 ```
 Create a controller spec for clubs_controller
 Write a `describe` block for the show page
